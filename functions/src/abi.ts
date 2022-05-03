@@ -1,0 +1,1 @@
+export const abi = [/** default erc20 contract abi */];
